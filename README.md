@@ -14,7 +14,7 @@ The core of the design is the LMR51450 regulator. The output voltage is configur
 ![3D Render Front](Media/3d_render_front.png)
 
 ### PCB Layout
-![PCB Layout](Media/PCB_Layout)
+![PCB Layout](Media/PCB_Layout.png)
 
 ### Top Layer
 ![PCB Top Layer](Media/PCB_Top_Layer.png)
