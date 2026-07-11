@@ -14,7 +14,7 @@ The core of the design is the LMR51450 regulator. The output voltage is configur
 ![3D Render Front](Media/3d_render_front.png)
 
 ### PCB Layout
-![PCB Layout](Media/PCB_Layout.png)
+![PCB Layout](Media/PCB_LAYOUT.png)
 
 ### Top Layer
 ![PCB Top Layer](Media/PCB_Top_Layer.png)
@@ -34,6 +34,3 @@ The core of the design is the LMR51450 regulator. The output voltage is configur
 1. Clone the repository to your local machine.
 2. Open the project in KiCad to view or modify the schematic (`.kicad_sch`) and PCB layout (`.kicad_pcb`).
 3. The `Media/` folder contains exported renders and layout references for quick viewing.
-
-## License
-[Insert License Here - e.g., MIT, CERN-OHL-W]
